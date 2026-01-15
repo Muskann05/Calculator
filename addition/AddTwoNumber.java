@@ -1,6 +1,5 @@
 import java.util.*;
-// add two number
-class AddTwoNumber {
+public class AddTwoNumber {
     public static void main(String[] args) {
         // take input using scanner
         Scanner sc = new Scanner(System.in);
